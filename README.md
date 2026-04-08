@@ -95,14 +95,16 @@ python main.py
 
 ---
 
-# 🎮 Cách chơi
+# ✨ Tính năng & Quy trình Game
 
-- Bắt đầu với **1,000,000 VNĐ**
-- Click **TÀI** hoặc **XỈU** để đặt cược
-- Mỗi ván cược mặc định **50,000 VNĐ**
-- Hệ thống lắc xúc xắc trong **2 giây**
-- Hiển thị kết quả
-- Tiền tự động cập nhật
+Game vận hành theo quy trình chuyên nghiệp, cho phép người chơi quản lý vốn cược:
+
+- **Khởi đầu:** Người chơi bắt đầu với số vốn **1,000,000 VNĐ**.
+- **Chọn mức cược:** Trước khi đặt cửa, người chơi chọn số tiền muốn cược (10K, 50K, 100K, 500K) thông qua các nút chọn ở dưới màn hình.
+- **Đặt cược:** Click vào nút **TÀI** hoặc **XỈU** để bắt đầu ván đấu với số tiền đã chọn.
+- **Hiệu ứng chờ:** Hệ thống thực hiện lắc xúc xắc trong **2 giây** kèm hiệu ứng bát úp (shaker) rung động và âm thanh sống động.
+- **Kết quả:** Sau 2 giây, bát mở ra hiển thị kết quả và thông báo Thắng/Thua.
+- **Cập nhật:** Tiền cược được tự động cộng hoặc trừ vào số dư ngay lập tức.
 
 ---
 

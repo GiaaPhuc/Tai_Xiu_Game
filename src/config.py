@@ -27,3 +27,9 @@ SHAKER_IMAGE = "assets/images/shaker.png"
 
 # Thời gian lắc (giây)
 ROLL_DURATION = 2000 # 2000 miligiây = 2 giây
+
+# Thêm vào src/config.py
+BET_OPTIONS = [10000, 50000, 100000, 500000]
+# Màu sắc cho nút chọn tiền
+GRAY = (100, 100, 100)
+ORANGE = (255, 165, 0)
