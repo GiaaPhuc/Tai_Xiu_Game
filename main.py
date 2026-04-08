@@ -93,7 +93,8 @@ def main():
                         if balance >= current_bet:
                             state, roll_time = "ROLLING", now
                             snd_roll.play()
-                            message = f"ĐANG CƯỢC {current_bet:,} VNĐ..."
+                            #message = f"BẠN CƯỢC {current_bet:,} VNĐ"
+                            message = f"ĐANG LẮC..."
                         else:
                             message = "KHÔNG ĐỦ TIỀN CƯỢC!"
 
