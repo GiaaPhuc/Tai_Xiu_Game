@@ -99,7 +99,7 @@ python main.py
 
 Game vận hành theo quy trình chuyên nghiệp, cho phép người chơi quản lý vốn cược:
 
-- **Khởi đầu:** Người chơi bắt đầu với số vốn **100,000,000 VNĐ**.
+- **Khởi đầu:** Người chơi bắt đầu với số vốn **20,000,000 VNĐ**.
 - **Chọn mức cược:** Trước khi đặt cửa, người chơi chọn số tiền muốn cược **10K, 50K, 100K, 500K, 1M, 5M, 10M** thông qua các nút chọn ở dưới màn hình.
 - **Đặt cược:** Click vào nút **TÀI** hoặc **XỈU** để bắt đầu ván đấu với số tiền đã chọn.
 - **Hiệu ứng chờ:** Hệ thống thực hiện lắc xúc xắc trong **2 giây** kèm hiệu ứng bát úp (shaker) rung động và âm thanh sống động.
