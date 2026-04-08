@@ -17,7 +17,7 @@ DICE_PATH = "assets/images/dice/"
 FONT_PATH = "assets/fonts/font.ttf"
 
 # Cài đặt Game
-INITIAL_BALANCE = 100000000  # Vốn 100 triệu
+INITIAL_BALANCE = 20000000  # Vốn 20 triệu
 DEFAULT_BET = 50000        # Cược mỗi ván 50k
 FPS = 60                   # Tốc độ khung hình
 
