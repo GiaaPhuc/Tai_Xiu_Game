@@ -73,8 +73,8 @@ TAI_XIU_GAME
 ## 1. Clone dự án
 
 ```bash
-git clone https://github.com/yourusername/tai-xiu-game.git
-cd tai-xiu-game
+git clone https://github.com/GiaaPhuc/Tai_Xiu_Game.git
+cd Tai_Xiu_Game
 ```
 
 ---
