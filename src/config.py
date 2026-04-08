@@ -17,7 +17,7 @@ DICE_PATH = "assets/images/dice/"
 FONT_PATH = "assets/fonts/font.ttf"
 
 # Cài đặt Game
-INITIAL_BALANCE = 1000000  # Vốn 1 triệu
+INITIAL_BALANCE = 100000000  # Vốn 100 triệu
 DEFAULT_BET = 50000        # Cược mỗi ván 50k
 FPS = 60                   # Tốc độ khung hình
 
@@ -29,7 +29,8 @@ SHAKER_IMAGE = "assets/images/shaker.png"
 ROLL_DURATION = 2000 # 2000 miligiây = 2 giây
 
 # Thêm vào src/config.py
-BET_OPTIONS = [10000, 50000, 100000, 500000]
+# Sửa lại trong src/config.py
+BET_OPTIONS = [10000, 50000, 100000, 500000, 1000000, 5000000, 10000000]
 # Màu sắc cho nút chọn tiền
 GRAY = (100, 100, 100)
 ORANGE = (255, 165, 0)
