@@ -198,31 +198,6 @@ Sinh viên - VNU-HCM University of Science
 
 ---
 
-# ⭐ Đóng góp
-
-1. Fork project
-2. Tạo branch mới
-
-```bash
-git checkout -b feature-new
-```
-
-3. Commit
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push
-
-```bash
-git push origin feature-new
-```
-
-5. Tạo Pull Request
-
----
-
 # 📜 License
 
 Dự án phục vụ mục đích học tập và nghiên cứu.
